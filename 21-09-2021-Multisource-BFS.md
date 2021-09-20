@@ -10,4 +10,6 @@ As far as implementation is concerned, whole algorithm is same, except that now 
 One more nice approach I read in a codeforces discuss is using a fake source and connecting all the sources to that node. Now proceed same as standard BFS but from the fake source
 Only thing to take care of is to subtract that extra 1 added because of the fake source.
 
+![img](https://codeforces.com/predownloaded/a5/e9/a5e9c9467ef6b37f122f8b6da0621b54775dc608.png)
+
 Code coming up in few minutes ....
