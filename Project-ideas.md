@@ -10,3 +10,5 @@
 - Similar to above one, but for images. **Something like Photoshop ported to the web**, working at the same efficiency as an application software.
 
 - **An audio processing tool, similar to ableton, but ported to the web**. All the above ports have collaboration inbuilt.
+
+-- A browser extension that shows the meaning of a word when highlighted, on a web page. Highlighted word gets a tooltip that shows meaning of the word and other data like pronounciation, usage etc. **Stage-2**, provide user functionality to save words they like (requires log-in) 
