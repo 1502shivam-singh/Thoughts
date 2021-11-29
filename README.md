@@ -9,9 +9,6 @@ Use this place to track and note tasks that need to be done
 
 ### University
 
-- Compiler design - Assignment (Intermediate Code Generation Practices)  
-*Deadline: Midnight of November 30, 2021*
-
 - NLP presentation  
 *Deadline undecided, expected close to and after 4th December*
 
