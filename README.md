@@ -9,7 +9,7 @@ Use this place to track and note tasks that need to be done
 
 ### University
 
-None
+NA
 
 ### Personal
 
