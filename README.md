@@ -9,8 +9,7 @@ Use this place to track and note tasks that need to be done
 
 ### University
 
-- NLP presentation  
-*Deadline undecided, expected close to and after 4th December*
+None
 
 ### Personal
 
