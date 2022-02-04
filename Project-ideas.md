@@ -14,3 +14,6 @@
 - A browser extension that shows the meaning of a word when highlighted, on a web page. Highlighted word gets a tooltip that shows meaning of the word and other data like pronounciation, usage etc. **Stage-2**, provide user functionality to save words they like (requires log-in) in their account.
 
 - A file system tool, which provided a directory-path classifies all the movies in that directory by genre. Meaning, new folders like "horror", "drama", "comedy" etc. are created and based on movie data online movies are separated in these folders
+
+- Build a tool that lets users create, read, update, and clos e GitHub issues from
+the command line, invoking their preferred text editor when substantial text input is required.
