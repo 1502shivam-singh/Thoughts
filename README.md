@@ -21,6 +21,3 @@ NA
 
 - Create my portfolio  
 *After bobo's portfolio, ASAP*
-
-- GSoC experience blog  
-*NA*
